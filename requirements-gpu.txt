@@ -1,0 +1,17 @@
+# PyTorch com suporte a CUDA 12.1
+torch==2.2.0+cu121
+torchvision==0.17.0+cu121
+torchaudio==2.2.0+cu121
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# OpenMV-Python
+openmv
+
+# MediaPipe (ainda roda apenas via CPU, mesmo no ambiente com GPU)
+mediapipe
+
+# Utilitários comuns
+numpy
+matplotlib
+pandas
+opencv-python

@@ -1,0 +1,16 @@
+# PyTorch (versão para CPU)
+torch
+torchvision
+torchaudio
+
+# OpenMV-Python (interface com câmeras OpenMV)
+openmv
+
+# MediaPipe (CPU)
+mediapipe
+
+# Utilitários comuns
+numpy
+matplotlib
+pandas
+opencv-python

@@ -1,0 +1,8 @@
+ Como usar
+Certifique-se de que os arquivos requirements.txt e requirements-gpu.txt estão no mesmo diretório.
+
+Ative seu ambiente virtual:
+    source .venv/bin/activate
+
+Rode o script:
+    python setup.py
