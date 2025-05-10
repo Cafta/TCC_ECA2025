@@ -1,3 +1,19 @@
-.venv/
+# Bytecode Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações do VSCode (opcional, se pessoais)
+.vscode/
+
+# Arquivos de pacotes
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual Python
+.venv/
+venv/
